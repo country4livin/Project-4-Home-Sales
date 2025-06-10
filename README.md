@@ -82,6 +82,6 @@ Steps Taken:
  - CSV data pipeline and joblib for model loading
 
 ## References
-- This data is publicly available on .
+- This data is publicly available on Realtor.com.
 - Guidance on overlaymaps, jupyter notebook tabular table, and JavaScript coding was sourced from theXpert Learning Assistant Chat+, an AI Learning tool for Edx, as well as Microsoft Copilot.  
 - Used google for leaftlet maps and marker functions accessed June 2025.
